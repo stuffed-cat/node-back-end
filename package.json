@@ -1,0 +1,16 @@
+{
+  "name": "nerv-node-bbs-back-end",
+  "version": "1.0.0",
+  "description": "星空伟奕科技有限公司的node.js bbs后端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "@hapi/inert": "^7.1.0",
+    "hapi-pino": "^12.1.0"
+  }
+}
